@@ -31,7 +31,7 @@
     "lodash": "^4.17.21",
     "next": "14.2.5",
     "next-intl": "^3.26.3",
-    "primereact": "10.8.3",
+    "primereact": "10.9.6",
     "react": "^18",
     "react-dom": "^18",
     "react-geocode": "^0.2.2",
